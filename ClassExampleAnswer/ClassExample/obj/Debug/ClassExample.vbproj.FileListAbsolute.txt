@@ -1,0 +1,30 @@
+C:\SchellG\MIS216\201520\ClassExample\ClassExample\bin\Debug\ClassExample.exe.config
+C:\SchellG\MIS216\201520\ClassExample\ClassExample\bin\Debug\ClassExample.exe
+C:\SchellG\MIS216\201520\ClassExample\ClassExample\bin\Debug\ClassExample.pdb
+C:\SchellG\MIS216\201520\ClassExample\ClassExample\bin\Debug\ClassExample.xml
+C:\SchellG\MIS216\201520\ClassExample\ClassExample\obj\Debug\ClassExample.frmClassExample.resources
+C:\SchellG\MIS216\201520\ClassExample\ClassExample\obj\Debug\ClassExample.Resources.resources
+C:\SchellG\MIS216\201520\ClassExample\ClassExample\obj\Debug\ClassExample.vbproj.GenerateResource.Cache
+C:\SchellG\MIS216\201520\ClassExample\ClassExample\obj\Debug\ClassExample.exe
+C:\SchellG\MIS216\201520\ClassExample\ClassExample\obj\Debug\ClassExample.xml
+C:\SchellG\MIS216\201520\ClassExample\ClassExample\obj\Debug\ClassExample.pdb
+C:\SchellG\MIS216\201520\ClassExampleAnswer\ClassExample\bin\Debug\ClassExample.exe.config
+C:\SchellG\MIS216\201520\ClassExampleAnswer\ClassExample\obj\Debug\ClassExample.exe
+C:\SchellG\MIS216\201520\ClassExampleAnswer\ClassExample\obj\Debug\ClassExample.xml
+C:\SchellG\MIS216\201520\ClassExampleAnswer\ClassExample\obj\Debug\ClassExample.pdb
+C:\SchellG\MIS216\201520\ClassExampleAnswer\ClassExample\bin\Debug\ClassExample.exe
+C:\SchellG\MIS216\201520\ClassExampleAnswer\ClassExample\bin\Debug\ClassExample.pdb
+C:\SchellG\MIS216\201520\ClassExampleAnswer\ClassExample\bin\Debug\ClassExample.xml
+C:\SchellG\MIS216\201520\ClassExampleAnswer\ClassExample\obj\Debug\ClassExample.frmClassExample.resources
+C:\SchellG\MIS216\201520\ClassExampleAnswer\ClassExample\obj\Debug\ClassExample.Resources.resources
+C:\SchellG\MIS216\201520\ClassExampleAnswer\ClassExample\obj\Debug\ClassExample.vbproj.GenerateResource.Cache
+D:\extracted files\ClassExampleAnswer\ClassExample\bin\Debug\ClassExample.exe.config
+D:\extracted files\ClassExampleAnswer\ClassExample\obj\Debug\ClassExample.exe
+D:\extracted files\ClassExampleAnswer\ClassExample\obj\Debug\ClassExample.xml
+D:\extracted files\ClassExampleAnswer\ClassExample\obj\Debug\ClassExample.pdb
+D:\extracted files\ClassExampleAnswer\ClassExample\bin\Debug\ClassExample.exe
+D:\extracted files\ClassExampleAnswer\ClassExample\bin\Debug\ClassExample.pdb
+D:\extracted files\ClassExampleAnswer\ClassExample\bin\Debug\ClassExample.xml
+D:\extracted files\ClassExampleAnswer\ClassExample\obj\Debug\ClassExample.frmClassExample.resources
+D:\extracted files\ClassExampleAnswer\ClassExample\obj\Debug\ClassExample.Resources.resources
+D:\extracted files\ClassExampleAnswer\ClassExample\obj\Debug\ClassExample.vbproj.GenerateResource.Cache
