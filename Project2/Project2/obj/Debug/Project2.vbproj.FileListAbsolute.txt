@@ -1,0 +1,10 @@
+C:\Users\vae6459\Desktop\Project2\Project2\bin\Debug\Project2.exe.config
+C:\Users\vae6459\Desktop\Project2\Project2\obj\Debug\Project2.frmProject2.resources
+C:\Users\vae6459\Desktop\Project2\Project2\obj\Debug\Project2.Resources.resources
+C:\Users\vae6459\Desktop\Project2\Project2\obj\Debug\Project2.vbproj.GenerateResource.Cache
+C:\Users\vae6459\Desktop\Project2\Project2\bin\Debug\Project2.exe
+C:\Users\vae6459\Desktop\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\vae6459\Desktop\Project2\Project2\bin\Debug\Project2.xml
+C:\Users\vae6459\Desktop\Project2\Project2\obj\Debug\Project2.exe
+C:\Users\vae6459\Desktop\Project2\Project2\obj\Debug\Project2.xml
+C:\Users\vae6459\Desktop\Project2\Project2\obj\Debug\Project2.pdb

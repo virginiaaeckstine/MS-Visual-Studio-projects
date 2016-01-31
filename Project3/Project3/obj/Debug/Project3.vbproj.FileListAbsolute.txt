@@ -1,0 +1,10 @@
+C:\SchellG\MIS216\201520\Project3\Project3\bin\Debug\Project3.exe.config
+C:\SchellG\MIS216\201520\Project3\Project3\bin\Debug\Project3.exe
+C:\SchellG\MIS216\201520\Project3\Project3\bin\Debug\Project3.pdb
+C:\SchellG\MIS216\201520\Project3\Project3\bin\Debug\Project3.xml
+C:\SchellG\MIS216\201520\Project3\Project3\obj\Debug\Project3.frmProject3.resources
+C:\SchellG\MIS216\201520\Project3\Project3\obj\Debug\Project3.Resources.resources
+C:\SchellG\MIS216\201520\Project3\Project3\obj\Debug\Project3.vbproj.GenerateResource.Cache
+C:\SchellG\MIS216\201520\Project3\Project3\obj\Debug\Project3.exe
+C:\SchellG\MIS216\201520\Project3\Project3\obj\Debug\Project3.xml
+C:\SchellG\MIS216\201520\Project3\Project3\obj\Debug\Project3.pdb
